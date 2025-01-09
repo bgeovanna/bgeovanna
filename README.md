@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Geovanna Oliveira
 
-## Estudante de Engenharia da Computação
 
-Me chamo Geovanna, tenho 21 anos e sou natural de São Paulo. Conclui o ensino médio no Colégio São Luís, com bolsa de 100% nos três anos. Atualmente, estou no quarto semestre na FMU.
+
+Me chamo Geovanna, tenho 21 anos e sou natural de São Paulo. Conclui o ensino médio no Colégio São Luís, com bolsa de 100% nos três anos. Atualmente, estou no quarto semestre na FMU, cursando Engenharia da Computação.
 
 
  <a href="https://www.linkedin.com/in/geovannaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
